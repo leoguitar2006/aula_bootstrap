@@ -1,0 +1,10 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.navbar-light .navbar-nav .nav-link, .cor-padrao {
+    color: #1aa9e1;
+}
